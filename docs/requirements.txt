@@ -2,3 +2,4 @@
 sphinx==3.5.4
 PyYAML==3.13
 sphinx-issues==1.2.0
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
