@@ -3,3 +3,4 @@ tox>=2.6.0
 invoke>=0.15.0
 mock==3.0.5
 flake8==3.9.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
